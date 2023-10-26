@@ -1,0 +1,22 @@
+body{
+    margin: 20px;
+}
+
+.avatar{
+    width: 150px;
+}
+
+.card {
+    display: flex;
+    justify-content: space-around;
+    margin: 0 auto;
+    background-color: purple;
+    padding: 20px;
+    width: 400px;
+    color: white;
+    border-bottom: 6px solid peru;
+}
+
+.dwae{
+    text-align: center;
+}
